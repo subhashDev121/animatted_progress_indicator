@@ -2,8 +2,7 @@
 
 This colorful [Flutter](https://flutter.io) widget package aims to show an animation progress indicator in reactive style. It also supports both circular and linear .
 
-![](flutter_animat![AnimatedProgressIndicator](https://user-images.githubusercontent.com/93323979/162623573-e197d399-30fd-495f-835f-dc901624a0d7.gif)
-ion_progress_bar.gif)
+![AnimatedProgressIndicator](https://user-images.githubusercontent.com/93323979/162623619-a71ecc73-e571-4879-b1d7-221a151f9152.gif)
 
 
 ### Flutter Create Contest
