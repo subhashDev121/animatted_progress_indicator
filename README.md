@@ -76,8 +76,9 @@ You can find more examples from [Example App](example)
  ```
 
 
-### Feedback
+### Find more about me 
+https://subhashdev121.github.io/subhash/#/
+## Feedback 
+https://in.linkedin.com/in/subhash-chandra-shukla-8293391a6?challengeId=AQEn4iCEuQGgdgAAAX_brevg1iEUjqtVX9rv-nbxW2OLa9MUrpmVdLZOuzPMmy0ybgOkkmA1GBzxM9ZkemYo6wRIYe_Amp7m6w&submissionId=37234d83-ca35-e116-08f6-4bb49f153d78
 
-Feel free to [leave any feedback](https://github.com/ltdangkhoa/Flutter-Animation-Progress-Bar/issues) for helping support this package 🍻 
-
-[![Buy Me A Coffee](https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png "Buy Me A Coffee")](https://www.buymeacoffee.com/13f742 "Buy Me A Coffee")
+https://github.com/subhashDev11
